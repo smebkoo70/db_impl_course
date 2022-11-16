@@ -1,0 +1,6 @@
+[submodule "googletest"]
+	path = googletest
+	url = https://gitee.com/zhouhuahui/googletest
+[submodule "deps/deps/googletest"]
+	path = deps/deps/googletest
+	url = https://gitee.com/zhouhuahui/googletest
